@@ -84,6 +84,7 @@ async function jdGlobal() {
     await sign()
     await invite()
     await invite2()
+    await invite3()
     $.score = 0
     $.total = 0
     await taskList()
@@ -487,7 +488,7 @@ function invite2() {
     'Cookie': cookie
   };
 
-  var dataString = `functionId=TaskInviteService&body={"method":"participateInviteTask","data":{"channel":"1","encryptionInviterPin":"2OldVZc5pETBD81XU85thQ%3D%3D","type":1}}&appid=market-task-h5&uuid=&_t=${t}`;
+  var dataString = `functionId=TaskInviteService&body={"method":"participateInviteTask","data":{"channel":"1","encryptionInviterPin":"Wy3rGd8o4Vckq1VucBFJjA%3D%3D","type":1}}&appid=market-task-h5&uuid=&_t=${t}`;
 
   var options = {
     url: 'https://api.m.jd.com/',
@@ -498,7 +499,23 @@ function invite2() {
     // console.log(data)
   })
 }
-
+function invite3() {
+  let opt = { url: `https://api.m.jd.com/client.action`,
+    headers: { 'Host': 'api.m.jd.com', 'Content-Type': 'application/x-www-form-urlencoded',
+      'Origin': 'https://h5.m.jd.com',
+      'Accept-Encoding': 'gzip, deflate, br', 'Cookie': cookie,
+      'Connection': 'keep-alive', 'Accept': 'application/json, text/plain, */*',
+      'User-Agent': 'jdapp;iPhone;9.4.0;14.3;;network/wifi;ADID/;supportApplePay/0;hasUPPay/0;hasOCPay/0;model/iPhone10,3;addressid/;supportBestPay/0;appBuild/167541;jdSupportDarkMode/0;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1',
+      'Referer': `https://h5.m.jd.com/babelDiy/Zeus/4ZK4ZpvoSreRB92RRo8bpJAQNoTq/index.html?serveId=wxe30973feca923229&actId=813914935083192320&way=0&lng=&lat=&sid=&un_area=`,
+      'Accept-Language': 'zh-cn', },
+    body: `functionId=cutPriceByUser&body={"activityId":"813914935083192320","userName":"","followShop":1,"shopId":658715,"userPic":""}&client=wh5&clientVersion=1.0.0` };
+  return new Promise(resolve => { $.post(opt,
+    (err, ersp, data) => {
+      //console.log(data)
+      resolve()
+    })
+  });
+}
 function invite() {
   let t = +new Date()
   var headers = {
@@ -512,7 +529,7 @@ function invite() {
     'Cookie': cookie
   };
 
-  var dataString = `functionId=InviteFriendApiService&body={"method":"attendInviteActivity","data":{"inviterPin":"2OldVZc5pETBD81XU85thQ%3D%3D","channel":1,"token":"","frontendInitStatus":""}}&referer=-1&eid=eidIf3dd8121b7sdmiBLGdxRR46OlWyh62kFAZogTJFnYqqRkwgr63%2BdGmMlcv7EQJ5v0HBic81xHXzXLwKM6fh3i963zIa7Ym2v5ehnwo2B7uDN92Q0&aid=&client=ios&clientVersion=14.4&networkType=wifi&fp=-1&appid=market-task-h5&_t=${t}`;
+  var dataString = `functionId=InviteFriendApiService&body={"method":"attendInviteActivity","data":{"inviterPin":"${["Lp3j8bN3zVW7XBBFzA%2Fh0IjHF0tn8HHhELd%2BqviJRJw%3D","2OldVZc5pETBD81XU85thQ%3D%3D","Pyp83Ujp%2Bedz15YE8NG3Sw%3D%3D"][Math.floor((Math.random()*3))]}","channel":1,"token":"","frontendInitStatus":""}}&referer=-1&aid=&client=ios&clientVersion=14.4&networkType=wifi&fp=-1&appid=market-task-h5&_t=${t}`;
 
   var options = {
     url: 'https://api.m.jd.com/?t=1613645706861',
