@@ -1,5 +1,5 @@
 {
-  "name": "lxk0301 task gallery",
+  "name": "task gallery",
   "description": "see you latter",
   "task": [
      {"config":"2 9 * * * https://raw.githubusercontent.com/TroyXZW/haoym/branch_for_QX/jd_bean_change.js, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true", "addons":"https://raw.githubusercontent.com/TroyXZW/haoym/branch_for_QX/QuantumultX/lxk0301_cookies.conf"},
