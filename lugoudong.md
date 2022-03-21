@@ -22,6 +22,7 @@
 ## 「豆豆拿来」是什么
   * 消息推送都在这里
 ## 抓包
+  CK ---> pt_key=xxxxxxxxx;pt_pin=xxxxxx; 或 WSKEY ---> pin=xxx;wskey=xxx; 抓到后，企业微信私发我就OK
 * CK获取
   * 用[Alook](https://coolapk.com/apk/alook.browser)（ios 直接去 App Store 搜）浏览器地址栏输入 bean.m.jd.com，手机验证码登录自己的手机号。  
   * 长按右下角小屋子==>开发者工具==>cookie（简称CK）==>拷贝后编辑成： \
