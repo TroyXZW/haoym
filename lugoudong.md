@@ -6,6 +6,7 @@
 - #### [CK 与 WSKEY](#CK与WSKEY)
 - #### [待完善补充](#待完善补充-1)
 - #### [京东云无限宝](#京东云无限宝-1)
+- #### [外面的世界](#外面的世界-1)
 ===================================
 ## 加入事业部
    [撸狗东事业部扫码加入](https://www.aliyundrive.com/s/Rjk2GMReEm9)
@@ -58,3 +59,8 @@
 券后价: ¥614.00
 
 领券抢购: https://u.jd.com/TLKoLU8
+
+===================================
+### 外面的世界
+VPN: [安卓](https://github.com/Kr328/ClashForAndroid/releases)  [IOS](https://apps.apple.com/us/app/shadowrocket/id932747118)  [Windows/macOS/Linux](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+[我的机场](https://www.easy2022.com/auth/register?code=k4qb)
