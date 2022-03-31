@@ -10,7 +10,7 @@
 
 ======================================================================
 ## FOR IOS
-  * software --> [Quantumult X -> recommend!](https://apps.apple.com/us/app/quantumult-x/id1443988620) | [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) 
+  * software --> [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)-> recommend! | [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) 
 
 ======================================================================
 ## FOR Android
