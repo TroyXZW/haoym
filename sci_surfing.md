@@ -8,13 +8,11 @@
 ## FOR PC
   * software --> [Windows/macOS/Linux](https://github.com/Fndroid/clash_for_windows_pkg/releases)
   * Windows
-    * [Download & open, click profile button](https://www.aliyundrive.com/s/i6gC96H4Apc)
+    * [Download & open, click "Profile" button](https://www.aliyundrive.com/s/i6gC96H4Apc)
     * [Open your airport website & click subscribe button to copy subscribe URL](https://www.aliyundrive.com/s/S4Z8D21hyM4)
-    * [Paste the URL into the blank bar at the top, then click Download button](https://www.aliyundrive.com/s/xsj8FyHKAxe), clash choose your downloaded profile from url automatically when you can see "success!"
-    * [](https://www.aliyundrive.com/s/XEkNYuJJwCN)
-    * [](https://www.aliyundrive.com/s/FqUn7nmtKXU)
-    * [Back to ]()
-    * 
+    * [Paste the URL into the blank bar at the top, then click "Download" button](https://www.aliyundrive.com/s/xsj8FyHKAxe), clash will choose your downloaded profile from url automatically when you can see "success!"
+    * [Choose "Proxies" on the left, then click WIFI icon to test latency & click a proxy of low latency (timeout means unavailable)](https://www.aliyundrive.com/s/XEkNYuJJwCN)
+    * [Back to "General", click "System Proxy" and enjoy new world](https://www.aliyundrive.com/s/WVMH7dgefF8)
   * MacOS
   * Linux
 
