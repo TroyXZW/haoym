@@ -30,7 +30,7 @@
 ======================================================================
 ## FOR IOS
   * software --> [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)-> recommend!   |   [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) 
-  * software needs to purchase & download using your AppleID (US/UK/HK/... except CH)
+  * Need to purchase & download using your AppleID (US/UK/HK/... except CH)
   * pending
 
 ======================================================================
