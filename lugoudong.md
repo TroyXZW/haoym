@@ -70,8 +70,4 @@
 
 ======================================================================
 ### 外面的世界
- * VPN: 
-   * [安卓](https://github.com/Kr328/ClashForAndroid/releases)  
-   * [IOS](https://apps.apple.com/us/app/shadowrocket/id932747118)  
-   * [Windows/macOS/Linux](https://github.com/Fndroid/clash_for_windows_pkg/releases)
-* [我的机场](https://www.easy2022.com/auth/register?code=k4qb)
+ * [Sci_Surfing Tutorial](https://github.com/TroyXZW/haoym/blob/main/sci_surfing.md)
