@@ -15,7 +15,15 @@
     * [Choose "Proxies" on the left, then click WIFI icon to test latency & click a proxy of low latency (timeout means unavailable)](https://www.aliyundrive.com/s/XEkNYuJJwCN)
     * [Back to "General", click "System Proxy" and enjoy new world](https://www.aliyundrive.com/s/WVMH7dgefF8)
   * MacOS
+    * Refer to the above Windows tutorial
   * Linux
+    * [Terminal command line](https://www.duckflew.cn/archives/fu-wu-qi-shang-pei-zhi-c-l-a-s-h)
+    * remember this
+      ```
+      export https_proxy=127.0.0.1:7890
+      export http_proxy=127.0.0.1:7890
+      export all_proxy=socks5://127.0.0.1:7891
+      ```
 
 ======================================================================
 ## FOR IOS
