@@ -3,19 +3,22 @@
 - #### [FOR PC](#for-pc-1)
 - #### [FOR IOS](#for-ios-1)
 - #### [FOR Android](#for-android-1)
+- [我的机场](https://www.easy2022.com/auth/register?code=k4qb)
 ======================================================================
 ## FOR PC
   * software --> [Windows/macOS/Linux](https://github.com/Fndroid/clash_for_windows_pkg/releases)
-  * 
+  * Windows
+   * 
+  * MacOS
+  * Linux
 
 ======================================================================
 ## FOR IOS
-  * software --> [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)-> recommend! | [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) 
+  * software --> [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)-> recommend!   |   [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) 
+  * software needs to purchase & download using your AppleID (US/UK/HK/... except CH)
+  * pending
 
 ======================================================================
 ## FOR Android
   * software --> [Android](https://github.com/Kr328/ClashForAndroid/releases)
-
-
-
-* [我的机场](https://www.easy2022.com/auth/register?code=k4qb)
+  * pending
