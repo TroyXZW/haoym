@@ -3,12 +3,18 @@
 - #### [FOR PC](#for-pc-1)
 - #### [FOR IOS](#for-ios-1)
 - #### [FOR Android](#for-android-1)
-- [我的机场](https://www.easy2022.com/auth/register?code=k4qb)
+- [my airport](https://www.easy2022.com/auth/register?code=k4qb)
 ======================================================================
 ## FOR PC
   * software --> [Windows/macOS/Linux](https://github.com/Fndroid/clash_for_windows_pkg/releases)
   * Windows
-   * 
+    * [Download & open, click profile button](https://www.aliyundrive.com/s/i6gC96H4Apc)
+    * [Open your airport website & click subscribe button to copy subscribe URL](https://www.aliyundrive.com/s/S4Z8D21hyM4)
+    * [Paste the URL into the blank bar at the top, then click Download button](https://www.aliyundrive.com/s/xsj8FyHKAxe), clash choose your downloaded profile from url automatically when you can see "success!"
+    * [](https://www.aliyundrive.com/s/XEkNYuJJwCN)
+    * [](https://www.aliyundrive.com/s/FqUn7nmtKXU)
+    * [Back to ]()
+    * 
   * MacOS
   * Linux
 
