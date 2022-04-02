@@ -35,5 +35,5 @@
 
 ======================================================================
 ## FOR Android
-  * software --> [Android](https://github.com/Kr328/ClashForAndroid/releases)
+  * software --> [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)
   * pending
