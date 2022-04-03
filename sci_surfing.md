@@ -33,9 +33,9 @@
   * software --> [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)-> recommend!   |   [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) 
   * Need to purchase & download using your AppleID (US/UK/HK/... except CH)
   * [Quantumult X教程](https://merlinblog.xyz/wiki/quanx.html)
-  * [Shadowrocket小火箭教程](https://merlinblog.xyz/wiki/shadowrocket.html)
+  * [Shadowrocket 教程](https://merlinblog.xyz/wiki/shadowrocket.html)
 
 ======================================================================
 ## FOR Android
   * software --> [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)
-  * [Clash for Android教程](https://merlinblog.xyz/wiki/cfa.html)
+  * [Clash for Android 教程](https://merlinblog.xyz/wiki/cfa.html)
