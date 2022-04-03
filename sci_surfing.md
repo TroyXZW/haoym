@@ -15,6 +15,7 @@
     * [Paste the URL into the blank bar at the top, then click "Download" button](https://www.aliyundrive.com/s/xsj8FyHKAxe), clash will choose your downloaded profile from url automatically when you can see "success!"
     * [Choose "Proxies" on the left, then click WIFI icon to test latency & click a proxy of low latency (timeout means unavailable)](https://www.aliyundrive.com/s/XEkNYuJJwCN)
     * [Back to "General", click "System Proxy" and enjoy new world](https://www.aliyundrive.com/s/WVMH7dgefF8)
+    * [Clash for Windows 教程](https://merlinblog.xyz/wiki/cfw.html)
   * MacOS
     * Clash.for.Windows-x.xx.xx.dmg
     * Refer to the above Windows tutorial
@@ -31,9 +32,10 @@
 ## FOR IOS
   * software --> [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)-> recommend!   |   [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) 
   * Need to purchase & download using your AppleID (US/UK/HK/... except CH)
-  * pending
+  * [Quantumult X教程](https://merlinblog.xyz/wiki/quanx.html)
+  * [Shadowrocket小火箭教程](https://merlinblog.xyz/wiki/shadowrocket.html)
 
 ======================================================================
 ## FOR Android
   * software --> [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)
-  * pending
+  * [Clash for Android教程](https://merlinblog.xyz/wiki/cfa.html)
