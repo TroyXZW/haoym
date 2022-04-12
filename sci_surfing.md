@@ -4,6 +4,7 @@
 - #### [FOR IOS](#for-ios-1)
 - #### [FOR Android](#for-android-1)
 - [MY AIRPORT](https://www.easy2022.com/auth/register?code=k4qb)
+- [各大机场测速和简介](https://www.duyaoss.com/archives/3/)
 
 ======================================================================
 ## FOR PC
