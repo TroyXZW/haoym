@@ -17,7 +17,7 @@
     * [Back to "General", click "System Proxy" and enjoy new world](https://www.aliyundrive.com/s/WVMH7dgefF8)
     * [Clash for Windows 教程](https://merlinblog.xyz/wiki/cfw.html)
   * MacOS
-    * Clash.for.Windows-x.xx.xx.dmg
+    * Download Clash.for.Windows-x.xx.xx.dmg, or Clash.for.Windows-x.xx.xx-arm64.dmg if M1
     * Refer to the above Windows tutorial
   * Linux
     * [Terminal command line](https://www.duckflew.cn/archives/fu-wu-qi-shang-pei-zhi-c-l-a-s-h)
