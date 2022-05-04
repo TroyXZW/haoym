@@ -3,7 +3,7 @@
 - #### [FOR PC](#for-pc-1)
 - #### [FOR IOS](#for-ios-1)
 - #### [FOR Android](#for-android-1)
-- [MY AIRPORT](https://www.easy2022.com/auth/register?code=k4qb)
+- [MY AIRPORT](https://www.easy2022.com/#/register?code=dfAJ8Rja)
 
 ======================================================================
 ## FOR PC
