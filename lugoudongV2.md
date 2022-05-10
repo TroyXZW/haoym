@@ -1,6 +1,6 @@
 # 撸狗东事业部公告
 ## 写在前面：关掉免密支付！！！
-<img width="212" height="276" src="https://user-images.githubusercontent.com/56990256/167615478-d5093068-c0d4-4196-9a8e-4170a2691cd5.jpg"/>
+<img width="216" height="448" src="https://user-images.githubusercontent.com/56990256/167615478-d5093068-c0d4-4196-9a8e-4170a2691cd5.jpg"/>
 
 - #### [加入事业部](#加入事业部-1)
 - #### [加入豆墩墩](#加入豆墩墩-1)
