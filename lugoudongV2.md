@@ -14,7 +14,7 @@
    
 ## 加入[送喜官](https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQEi8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZVRWNGhwOXNmRUYxMDAwMGcwN2gAAgTg6f1iAwQAAAAA)（务必扫这个二维码关注，直接搜公众号关注的话白忙活）
   * **送喜官**是一个公众号，可以**查询商品的历史价格**，以免高价时买入，同时可以**多平台价格对比**，做到**货比三家**。同时可以**短信登录**，从此**不再抓包**！
-  * 查询没有结果要么就是ck过期（重新上车），或者服务暂不能用了（换个时间试试或者找我）
+  * 『**查询**』没有结果要么就是ck过期（重新上车），或者服务暂不能用了（换个时间试试或者找我）
   * 目前支持『**京东**』/『**淘宝**』/『**拼多多**』的历史比价
   * **大件小件**都可以发给『送喜官』，并不只有大件哦，效果如下：\
     <img width="216" height="448" src="https://user-images.githubusercontent.com/56990256/185789875-250873dd-48ce-4277-93ed-08a7ce4c10d1.png"/>
