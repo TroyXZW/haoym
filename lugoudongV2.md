@@ -16,7 +16,7 @@
 ## 加入事业部
    <img width="212" height="276" src="https://user-images.githubusercontent.com/56990256/167612520-a73f8881-0414-491c-b1d3-069eebec4efe.jpg"/>
    
-## 加入[送喜官]([https://www.aliyundrive.com/s/dQ17EtRssjV](https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQEi8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZVRWNGhwOXNmRUYxMDAwMGcwN2gAAgTg6f1iAwQAAAAA))（）
+## 加入[送喜官]([https://www.aliyundrive.com/s/dQ17EtRssjV](https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQEi8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZVRWNGhwOXNmRUYxMDAwMGcwN2gAAgTg6f1iAwQAAAAA))（务必扫这个二维码关注，直接搜公众号关注的话白忙活）
   * **豆墩墩**是一个公众号，可以**查询商品的历史价格**，以免高价时买入，同时可以**多平台价格对比**，做到**货比三家**。同时可以**短信登录**，从此**不再抓包**！
   * 目前支持『**京东**』和『**淘宝**』的历史比价，**拼多多**暂不支持。
   * **大件小件**都可以发给『豆墩墩』，并不只有大件哦
@@ -31,7 +31,7 @@
 
 ## 上车
   直接发送『**登录**』给『**豆墩墩**』即可提交，效果图：\
-  ![image](https://user-images.githubusercontent.com/56990256/185789521-79cc758f-eba8-47dc-b47f-0189a1feb4ee.png)
+  <img width="216" height="448" src="https://user-images.githubusercontent.com/56990256/185789521-79cc758f-eba8-47dc-b47f-0189a1feb4ee.png"/>
 
   
 ## 须知
