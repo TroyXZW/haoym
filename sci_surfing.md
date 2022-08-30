@@ -8,7 +8,7 @@
 
 ======================================================================
 ## FOR PC
-  * software --> [Windows/macOS/Linux](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+  * software download here!--> [Windows/macOS/Linux](https://github.com/Fndroid/clash_for_windows_pkg/releases)
   * Windows
     * Download Clash.for.Windows.Setup.xx.xx.xx.exe
     * [Download & open Clash, click "Profile" button](https://www.aliyundrive.com/s/i6gC96H4Apc)
@@ -31,12 +31,12 @@
 
 ======================================================================
 ## FOR IOS
-  * software --> [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)-> recommend!   |   [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) 
+  * software download here! --> [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620)-> recommend!   |   [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) 
   * Need to purchase & download using your AppleID (US/UK/HK/... except CH)
   * [Quantumult X教程](https://merlinblog.xyz/wiki/quanx.html)
   * [Shadowrocket 教程](https://merlinblog.xyz/wiki/shadowrocket.html)
 
 ======================================================================
 ## FOR Android
-  * software --> [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)
+  * software download here! --> [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)
   * [Clash for Android 教程](https://merlinblog.xyz/wiki/cfa.html)
