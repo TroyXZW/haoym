@@ -3,7 +3,7 @@
 - #### [FOR PC](#for-pc-1)
 - #### [FOR IOS](#for-ios-1)
 - #### [FOR Android](#for-android-1)
-- [MY AIRPORT 1](https://www.easy2022.com/#/register?code=dfAJ8Rja) OR [MY AIRPORT 2](https://my.kelecloud.xyz/#/register?code=wlUqoB8F
+- [MY AIRPORT 1](https://www.easy2023.com/#/register?code=dfAJ8Rja) OR [MY AIRPORT 2](https://my.kelecloud.xyz/#/register?code=x3omYCxm
 )
 
 ======================================================================
